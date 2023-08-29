@@ -1,5 +1,12 @@
 ## [Unreleased]
 
+## [1.3.0](https://www.github.com/vitor-donorbox/test_ruby_gem/compare/v1.2.0...v1.3.0) (2023-08-29)
+
+
+### Features
+
+* add a wrong message to say_hi ([5d4407f](https://www.github.com/vitor-donorbox/test_ruby_gem/commit/5d4407fc33c29972828c8d43c40bd27f9a724b97))
+
 ## [1.2.0](https://www.github.com/vitor-donorbox/test_ruby_gem/compare/v1.1.0...v1.2.0) (2023-08-29)
 
 
