@@ -8,4 +8,8 @@ module TestRubyGem
   def say_hello
     'hello world'
   end
+
+  def say_good_bye
+    'good byee'
+  end
 end
