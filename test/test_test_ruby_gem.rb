@@ -14,4 +14,8 @@ class TestTestRubyGem < Minitest::Test
   def should_return_say_good_bye
     expect(say_good_bye).to eql("good bye")
   end
+
+  def should_return_hi
+    expect(say_hello).to eql("hi")
+  end
 end

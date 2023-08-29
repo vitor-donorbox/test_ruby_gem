@@ -12,4 +12,8 @@ module TestRubyGem
   def say_good_bye
     'good bye'
   end
+
+  def say_hi
+    'hi'
+  end
 end
