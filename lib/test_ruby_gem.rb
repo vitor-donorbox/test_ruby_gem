@@ -14,6 +14,6 @@ module TestRubyGem
   end
 
   def say_hi
-    'hiii'
+    'hi'
   end
 end
