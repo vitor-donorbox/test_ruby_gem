@@ -10,6 +10,6 @@ module TestRubyGem
   end
 
   def say_good_bye
-    'good byee'
+    'good bye'
   end
 end
