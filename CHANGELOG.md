@@ -1,5 +1,19 @@
 ## [Unreleased]
 
+## [1.2.0](https://www.github.com/vitor-donorbox/test_ruby_gem/compare/v1.1.0...v1.2.0) (2023-08-29)
+
+
+### Features
+
+* create say_hi method ([1c5d4ec](https://www.github.com/vitor-donorbox/test_ruby_gem/commit/1c5d4ecb44601167a286ea9281e2f4c5eead9dc0))
+* introducing a feat with bug on say_good_bye method ([fc2be45](https://www.github.com/vitor-donorbox/test_ruby_gem/commit/fc2be45f4af11aea0bcca72b624bcf0871e14581))
+
+
+### Bug Fixes
+
+* add the correct return message to say_good_bye method ([0ad0c16](https://www.github.com/vitor-donorbox/test_ruby_gem/commit/0ad0c16139e35047eb41c9160b7432d1374cf32c))
+* change from master to main the branch that triggers release drafter ([a7e80ab](https://www.github.com/vitor-donorbox/test_ruby_gem/commit/a7e80aba6dad3c4a290b773b3b924019060fd2d3))
+
 ## [1.1.0](https://www.github.com/vitor-donorbox/test_ruby_gem/compare/v1.0.0...v1.1.0) (2023-08-29)
 
 
