@@ -7,7 +7,7 @@ class TestTestRubyGem < Minitest::Test
     refute_nil ::TestRubyGem::VERSION
   end
 
-  def test_it_does_something_useful
-    assert false
+  def should_return_hello_world
+    expect(say_hello).to eql("hello world")
   end
 end
